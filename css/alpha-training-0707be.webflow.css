@@ -1335,7 +1335,11 @@
   }
 
   .form-holder {
+    justify-content: center;
+    align-items: center;
     width: 100%;
+    margin-top: -49px;
+    margin-left: -201px;
   }
 
   .heading-h2-2.su {
@@ -1619,6 +1623,7 @@
 
   .form-holder {
     width: 100%;
+    margin-top: -135px;
   }
 
   .form-block-2 {
